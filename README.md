@@ -47,9 +47,6 @@ for i in range(n):
     print("X%d = %.2f" %(i,x[i]),end=" ")
 ```
 ## Output:
-![gaussian elimination]()
-
-
+![Gaussian](https://github.com/Vikaash19/Gaussian-elimination/assets/148514589/ea0e6663-cac4-49ab-94fc-bda5abac3d47)
 ## Result:
 Thus the program to find the solution of a matrix using Gaussian Elimination is written and verified using python programming.
-
